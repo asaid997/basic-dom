@@ -28,6 +28,15 @@ body{
     padding: 10px;
 }
 
+#box{
+    background-color: #1abc9c;
+    line-height:20px;
+    text-align:middle;
+    width: 150px;
+    padding: 20px;
+  }
+  
+
 #block{
     position: absolute;
     width: 80px;
@@ -49,6 +58,12 @@ body{
     bottom: 100px;
     
     background-color: #7f8c8d;
+}
+
+.subHeader{
+    text-shadow: 2px 1px  black ;
+    color: green
+
 }
 
 .arrow{
